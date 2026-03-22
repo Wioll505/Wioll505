@@ -1,0 +1,4 @@
+ssh -p (port number) user@IP(or DNS)
+
+if you want to open a file starting with "-" you need to specify the full directory location 
+ie: cat /home/-
