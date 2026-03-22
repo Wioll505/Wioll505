@@ -5,3 +5,7 @@ ie: cat /home/-
 
 if you want to open a file with spaces like "file name.txt" you must use single or double quotations
 ie: cat 'file name.txt', or if it has a -: cat /home/'-file name.txt'
+
+use ls -a to show hidden files
+
+you can use "find" and set specific parameters to find types of files with size, executable, readable ect..
